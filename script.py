@@ -1,5 +1,6 @@
 #/usr/bin/python
-import numpy
+# import numpy
 
 print("hello")
+print("Som ti to pokazil")
 
