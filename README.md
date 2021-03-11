@@ -9,11 +9,3 @@ Autor tohto textu je Mishcos.
 * [ ] Treba opravit
 * [ ] Zoznam
 
-
-
-
-
-
-
-
-
