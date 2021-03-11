@@ -2,13 +2,14 @@
 
 Autor tohto textu je Mishcos.
 
+## Heading 1 
+
+## Heading 2
+
+* [ ] Treba opravit
+* [ ] Zoznam
 
 
-## Headgin 1 
-
-
-
-## headgin 2
 
 
 
